@@ -1,0 +1,8 @@
+{
+	"name": "Arsenal",
+	"author": "Kovacs",
+	"version": "2.2.1",
+	"forceDowngrade": false,
+	"downloadUpdateUrl": "https://jet.maoci.eu/dev/ConfigFreaks/Kovacs-Arsenal/archive/Arsenal-2.2.1.zip",
+	"excludeFromUpdate": []
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "MPX45",
+	"_tpl": "MPX45",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "338Scenar",
+	"_tpl": "338Scenar",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

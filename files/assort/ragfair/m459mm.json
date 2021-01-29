@@ -1,0 +1,10 @@
+{
+	"_id": "m459mm",
+	"_tpl": "m459mm",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

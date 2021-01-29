@@ -1,0 +1,20 @@
+// v1.0.2
+
+Added Remington Model 870 Variant - 20 gauge
+
+// v1.0.1
+
+Hotfix applied - Switched to from temper to cache loading
+
+Fixed an issue when buying Honey Badger SBR
+
+Changed compatible barrels for Honey Badger SBR
+
+// v2.1.0
+
+Added Wilson Combat .458 Socom
+
+// v2.2.0
+
+Added Vepr Wolf
+

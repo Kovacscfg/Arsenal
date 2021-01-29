@@ -1,0 +1,10 @@
+{
+	"_id": "458LEHIGH",
+	"_tpl": "458LEHIGH",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"_id": "Hunter762",
+	"_tpl": "Hunter762",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

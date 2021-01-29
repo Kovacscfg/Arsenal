@@ -1,0 +1,10 @@
+{
+	"_id": "rem338m9",
+	"_tpl": "rem338m9",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

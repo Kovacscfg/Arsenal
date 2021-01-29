@@ -1,0 +1,10 @@
+{
+	"_id": "338API",
+	"_tpl": "338API",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

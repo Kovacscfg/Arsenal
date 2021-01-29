@@ -1,0 +1,10 @@
+{
+	"_id": "RFBtest",
+	"_tpl": "RFBtest",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}

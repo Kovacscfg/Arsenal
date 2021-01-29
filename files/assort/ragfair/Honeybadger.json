@@ -1,0 +1,10 @@
+{
+	"_id": "Honeybadger",
+	"_tpl": "Honeybadger",
+	"parentId": "hideout",
+	"slotId": "hideout",
+	"upd": {
+		"UnlimitedCount": true,
+		"StackObjectsCount": 999999999
+	}
+}
